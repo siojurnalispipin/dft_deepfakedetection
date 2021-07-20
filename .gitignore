@@ -1,2 +1,4 @@
 #ignore dataset
 prepro_deepFake/
+
+.gitignore
